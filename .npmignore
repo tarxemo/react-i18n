@@ -1,0 +1,12 @@
+src/
+tsconfig.json
+.github/
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+.gitignore
+.eslintrc*
+.prettierrc*
+jest.config.*
+vitest.config.*
